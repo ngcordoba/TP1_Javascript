@@ -1,0 +1,61 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 600px;
+}
+
+.btn{
+  background: #002442;
+  font-family: consolas;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight:bold;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  margin: 80px;
+  bottom: 100px;
+}
+
+.memorygametittle{
+  font-size: x-large;
+  font-family: consolas;
+  font-weight: bold;
+  top: 70px;
+  right: 320px;
+}
+
+.score{
+  font-size: x-large;
+  font-family: consolas;
+  font-weight: bold;
+  top: 15px;
+  left: 260px;
+}
+
+.credits{
+  position: relative;
+  font-size: xx-large;
+  font-family: consolas;
+  font-weight: bold;
+}
+
+.credits2{
+  position: relative;
+  font-size: small;
+  font-family: consolas;
+  font-weight: bold;
+}
+
+.credits3{
+  position: relative;
+  font-size: medium;
+  font-family: consolas;
+  font-weight: bold;
+}
+
+.divcredits{
+  position: relative;
+  top: 270px;
+}
+
